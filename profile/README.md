@@ -16,6 +16,6 @@
   <p>Got any ideas? We'd love to hear! Whether you'd like to contribute to an existing idea or suggest a totally new one, this is your place. Contact us through our e-mails:
    <ul>
     <li>Tia: tiabeiruty@gmail.com</li>
-    <li>Saif: sntbeiruty@yahoo.com</li>
+    <li>Saif: saif.beiruty@mail.utoronto.ca</li>
   </ul>
   </p>
